@@ -19,6 +19,9 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
+  <action id="ToggleDistractionFreeMode">
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
   <action id="com.jetbrains.python.console.RunPythonConsoleAction">
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
